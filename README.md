@@ -17,7 +17,7 @@
 
 Thanks for visiting!
 
-![Bye!](magnolia-opening.jpg)
+![Bye!](magnolia-opening.jpg "Magnolia from Blue Velvet")
 
 
 
