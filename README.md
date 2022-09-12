@@ -20,7 +20,7 @@
 
 Thanks for visiting!
 
-![Bye!](Lines2.tiff "A Bunch of Lines")
+![Bye!](Lines.tiff "A Bunch of Lines")
 
 
 
