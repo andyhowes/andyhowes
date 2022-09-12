@@ -1,7 +1,10 @@
 
-#### Andy Howes ####
 
-##### <andrewmichaelhowes@gmail.com> #####
+### Andy Howes ###
+
+#### <andrewmichaelhowes@gmail.com> ####
+
+##### Welcome to my Github! #####
 
 [My Resume](Resume.pdf)
 
