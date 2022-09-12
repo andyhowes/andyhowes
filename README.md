@@ -5,6 +5,20 @@
 
 [My Resume](Resume.pdf)
 
+---
+
+#### A Couple Projects ####
+
+[Bruce Springsteen Lyrics Reorderer](https://github.com/andyhowes/Springsteen-DataThing)
+
+[Superstruct App for Pro Painters](https://github.com/andyhowes/paint-group-project)
+
+---
+
+Thanks for visiting!
+
+![Bye!](magnolia-opening.jpg)
+
 
 
 <!--
