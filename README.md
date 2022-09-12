@@ -1,10 +1,7 @@
 
+### Welcome to my Github! ###
 
-### Andy Howes ###
-
-#### <andrewmichaelhowes@gmail.com> ####
-
-##### Welcome to my Github! #####
+##### <andrewmichaelhowes@gmail.com> #####
 
 [My Resume](Resume.pdf)
 
@@ -18,7 +15,7 @@
 
 ---
 
-Thanks for visiting!
+Feel free to reach out (I'm fairly nice). Thanks for visiting!
 
 <!--
 **andyhowes/andyhowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
