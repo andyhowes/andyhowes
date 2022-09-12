@@ -3,6 +3,7 @@
 
 ##### <andrewmichaelhowes@gmail.com> #####
 
+[My Resume](Andy Howes Resume Blue Accents.pdf)
 
 
 
