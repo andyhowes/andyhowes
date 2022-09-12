@@ -20,6 +20,8 @@
 
 Thanks for visiting!
 
+![Bye!](Lines2.tiff)
+
 ![Bye!](magnolia-opening.jpg "Magnolia from Blue Velvet")
 
 
