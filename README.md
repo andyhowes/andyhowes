@@ -16,9 +16,12 @@
 ---
 
 Feel free to reach out (I'm fairly nice). Thanks for visiting!
+
 ![Bye!](magnolia-opening-2.jpg "Magnolia from Blue Velvet")
+
 <!--
 **andyhowes/andyhowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ![Bye!](magnolia-opening.jpg "Magnolia from Blue Velvet")
 ![Bye!](Lines.tiff "A Bunch of Lines")
 Here are some ideas to get you started:
