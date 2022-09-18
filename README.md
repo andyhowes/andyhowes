@@ -15,7 +15,7 @@
 
 ---
 
-Feel free to reach out (I'm fairly nice). Thanks for visiting!
+Thanks for visiting!
 
 ![Bye!](magnolia-opening-2.jpg "Magnolia from Blue Velvet")
 
