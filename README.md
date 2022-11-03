@@ -1,9 +1,9 @@
 
-### Welcome to my Github! ###
+## Welcome to my Github! ##
 
-##### <andrewmichaelhowes@gmail.com> #####
+#### <andrewmichaelhowes@gmail.com> ####
 
-[My Resume](Resume.pdf)
+#### [Resume](Resume.pdf) ####
 
 ---
 
